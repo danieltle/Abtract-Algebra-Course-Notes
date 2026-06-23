@@ -5,7 +5,7 @@ Some course notes for an Introductory Abstract Algebra course.
 I am **NOT** a professor or a specialist in the field. I keep these course notes purely for my own studies of the subject. I want to share these notes because I think this is an organized version of the textbook: everything is put in easy-to-navigate boxes, at least personally. Despite that, I am still in charge of and take full responsibility for these notes.
 
 Future updates include:
-- Basis Theorem + Exercises (Section 4: Homomorphisms & Quotient Groups)
+- Basis Theorem + Second/Third Isomorphism Theorems + Exercises (Section 4: Homomorphisms & Quotient Groups)
 - Section 5: Counting with Groups
 - Section 6: Groups of Small Order
 - Section 7: Commutative Rings
